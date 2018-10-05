@@ -351,6 +351,10 @@ a:focus, a:hover, a:active {
   background-color: #2C3E50 !important;
 }
 
+.bg-terniary {
+  background-color: #FFFFFF !important;
+}
+
 .text-primary {
   color: #18BC9C !important;
 }
